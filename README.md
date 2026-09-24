@@ -217,4 +217,4 @@ The suite uses Node's built-in test runner and covers input validation, role-per
 
 Released under the [MIT License](LICENSE).
 
-<p align="center"><sub>Built and maintained by <a href="https://github.com/Gerald-1234">Gerald-1234</a></sub></p>
+<p align="center"><sub>Built and maintained by <a href="https://github.com/gerald-1234">Gerald-1234</a></sub></p>
